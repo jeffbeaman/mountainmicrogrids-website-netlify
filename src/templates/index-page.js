@@ -5,7 +5,7 @@ import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+//import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
@@ -31,15 +31,15 @@ export const IndexPageTemplate = ({
                 <div className="content">
                   <div className="content">
                     <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
+                      <h1 className="title is-size-3">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <div className="subtitle">{mainpitch.description}</div>
                     </div>
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="has-text-weight-semibold is-size-3">
                         {heading}
                       </h3>
                       <p>{description}</p>
@@ -53,8 +53,9 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
+                  {/*
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h3 className="has-text-weight-semibold is-size-3">
                       Latest stories
                     </h3>
                     <BlogRoll />
@@ -64,6 +65,7 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
+                */}
                 </div>
               </div>
             </div>

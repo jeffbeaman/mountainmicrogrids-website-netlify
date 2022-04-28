@@ -1,50 +1,35 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Keeping the lights on
+image: /img/banners/home-jumbotron.jpg
+heading: Scalable backup or fulltime systems
+subheading: Reliable clean power for your house, cabin, rv...
 mainpitch:
-  title: Why Kaldi
+  title: Why Mountain Microgrids
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Having experienced many power outages due to storms, accidents, power safety shutoffs, planned shutoffs for electrical pole and tree work...  there has to be something better than trying to find the local coffee shop or putting up with backup gas generator noise/smells/cost.
+
+    With more and more electification (heating, cooking, EVs) in our homes, we need reliable power to be comfortable, especially during a storm or emergency situation.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Mountain Microgrids builds battery backup systems paired with solar and or mobile gas generators which can help you weather any storm.  Systems can be scaled up from hours to days/weeks offgrid... keeping your food cold, lights on, wifi, tv, all the modern conviences running.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/products/mm-mobile-5.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        mm-mobile-5:
+        A mobile power solution you can keep ready in your garage, lend to a neighbor, or take with you to an off-grid cabin.
+    - image: /img/products/mm-rack-15.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        mm-rack-15:
+        Rack mounted power banks allow upgrading over time.  Start with 5kW power, 5kWh batteries and expand up to 15kWh batteries.  Multiple MM-racks can be parallized to scale up further.
+    - image: /img/products/mm-rack-15-outdoor.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        mm-rack-15-outdoor:
+        Don't have space in a indoor area?  Our solutions can be packaged in NEMA 3R enclosures.
+    - image: /img/products/mm-house-max-30-90.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        mm-house-30-90: 
+        Our largest residential offering, scaled all the way to 30kW continious power, 180kWh battery storage.  This can backup multiple structures on your property.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
