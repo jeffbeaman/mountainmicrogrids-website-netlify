@@ -7,11 +7,18 @@ subheading: Reliable clean power for your house, cabin, rv...
 mainpitch:
   title: Why Mountain Microgrids
   description: >
-    Having experienced many power outages due to storms, accidents, power safety shutoffs, planned shutoffs for electrical pole and tree work...  there has to be something better than trying to find the local coffee shop or putting up with backup gas generator noise/smells/cost.
+    We specialize in solar + battery backup solutions.
 
-    With more and more electification (heating, cooking, EVs) in our homes, we need reliable power to be comfortable, especially during a storm or emergency situation.
+    
+    Having experienced many power outages due to storms, down trees, accidents, power safety shutoffs, planned shutoffs for electrical pole and tree work (6x 8hr outages in 2022 alone)...  We realized there have to be better options than working out of the local coffee shop or putting up with backup gas generator noise/smells/cost.  
+
+    
+    With more and more electification of our homes (heating, cooking, EVs), we need reliable power to be comfortable, especially during a storm or emergency situation.
 description: >-
-  Mountain Microgrids builds battery backup systems paired with solar and or mobile gas generators which can help you weather any storm.  Systems can be scaled up from hours to days/weeks offgrid... keeping your food cold, lights on, wifi, tv, all the modern conviences running.
+  Mountain Microgrids builds battery backup systems which paired with solar and or mobile gas generators can help you weather any outage.  Systems can be scaled up provide backup power from hours to days/weeks offgrid... keeping your food cold, lights on, wifi, tv, cooking, all your modern conviences running.  
+
+  Supporting 120/240v @ 20a (5kW) continious power in our smallest systems... running power tools, starting fridge/freezer/hvac compressors is no problem.
+
 intro:
   blurbs:
     - image: /img/products/mm-mobile-5.png
@@ -25,11 +32,11 @@ intro:
     - image: /img/products/mm-rack-15-outdoor.jpg
       text: >
         mm-rack-15-outdoor:
-        Don't have space in a indoor area?  Our solutions can be packaged in NEMA 3R enclosures.
+        Don't have space in a indoor area?  Our solutions can be packaged in NEMA 3R enclosures.  Nearly all systems are capable of gas generator charging and remote autostart/stop with specific generator models. (gen optimizer)
     - image: /img/products/mm-house-max-30-90.jpg
       text: >
         mm-house-30-90: 
-        Our largest residential offering, scaled all the way to 30kW continious power, 180kWh battery storage.  This can backup multiple structures on your property.
+        Our largest residential offering, scaled all the way to 30kW (125a) continious power, 180kWh battery storage.  This package can backup very large homes or multiple structures on your property. As well as enable TOU load shifting, and 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
