@@ -1,8 +1,8 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Scalable Power Solutions
-image: /img/banners/power-for-any-situation.jpg
+title: Scalable Backup Power Solutions
+image: /img/banners/home-blackout-stars.png
 heading: Scalable clean energy backup systems
 description: >-
   
@@ -44,7 +44,7 @@ intro:
   description: >
     ...
 main:
-  heading: Reliable power backup with no compromises
+  heading: Reliable power backup
   description: >
     ...TBD
   image1:
@@ -67,11 +67,9 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Featured Products
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
