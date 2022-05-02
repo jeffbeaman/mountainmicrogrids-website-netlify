@@ -69,13 +69,19 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <Link className="navbar-item" to="/contact#contact">
                         Contact
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact#servicearea">
+                        Woodside, CA
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
+<div style={{display: 'none'}} className="todo">
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
@@ -107,6 +113,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
               </div>
+</div>
             </div>
           </div>
         </div>

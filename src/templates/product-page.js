@@ -39,8 +39,9 @@ export const ProductPageTemplate = ({
               </div>
             </div>
             <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <Features gridItems={intro.blurbs} /> 
+              <div className="column is-10 is-offset-1 products">
+                <Features gridItems={intro.blurbs} />
+<div style={{display: 'none'}} className="todo">
                 <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
@@ -49,6 +50,7 @@ export const ProductPageTemplate = ({
                     <p>{main.description}</p>
                   </div>
                 </div>
+
                 <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
@@ -71,11 +73,13 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
                 <Testimonials testimonials={testimonials} />
+</div>
               </div>
             </div>
           </div>
         </div>
       </section>
+<div style={{display: 'none'}} className="todo">
       <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
       <section className="section section--gradient">
         <div className="container">
@@ -92,6 +96,7 @@ export const ProductPageTemplate = ({
           </div>
         </div>
       </section>
+</div>
     </div>
   );
 };

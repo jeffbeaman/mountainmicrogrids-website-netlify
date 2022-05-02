@@ -36,7 +36,25 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <section className="section">
+        <section className="section contacts" id="servicearea">
+          <div className="content">
+            <h1>Main Office</h1>
+            Woodside, CA
+
+            <h1>Service Area</h1>
+            <div style={{overflow: 'hidden'}}>
+              <iframe 
+                width="100%"
+                height="480"
+                title="service area"
+                loading="lazy"
+                src="https://www.google.com/maps/d/embed?mid=1M-zyDuHFJefruPnks5QDqNZcHPFLW26P&ehbc=2E312F"
+                style={{marginTop: '-50px'}}
+                ></iframe>
+            </div>
+          </div>
+        </section>
+        <section className="section" id="contact">
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
@@ -84,6 +102,26 @@ export default class Index extends React.Component {
                       id={"email"}
                       required={true}
                     />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={"routing"}>
+                    Subject Area
+                  </label>
+                  <div className="control">
+                    <select
+                      className="input"
+                      type={"text"}
+                      name={"routing"}
+                      onChange={this.handleChange}
+                      id={"routing"}
+                      required={true}
+                    >
+                      <option value="sales">Sales</option>
+                      <option value="support">Support</option>
+                      <option value="info">General/Info</option>
+                    </select>
+
                   </div>
                 </div>
                 <div className="field">

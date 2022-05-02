@@ -10,30 +10,36 @@ intro:
   blurbs:
     - image: /img/products/mm-mobile-5.png
       text: >
-        mm-mobile-5:
+        mm-mobile-5
+
         A mobile power solution you can keep ready in your garage, lend to a neighbor, or take with you to an off-grid cabin.
     - image: /img/products/mm-rack-15.png
       text: >
-        mm-rack-15:
+        mm-rack-15
+
         Rack mounted power banks allow upgrading over time.  Start with 5kW power, 5kWh batteries and expand up to 15kWh batteries.  Multiple MM-racks can be parallized to scale up further.
     - image: /img/products/mm-rack-15-outdoor.jpg
       text: >
-        mm-rack-15-outdoor:
+        mm-rack-15-outdoor
+
         Don't have space in a indoor area?  Our solutions can be packaged in NEMA 3R enclosures.
     - image: /img/products/mm-house-max-30-90.jpg
       text: >
-        mm-house-30-90: 
+        mm-house-30-90
+
         Our largest residential offering, scaled all the way to 30kW (125a) continious power, 180kWh battery storage.  This package can backup very large homes or multiple structures on your property.
     
     - image: /img/todo/mm-truckbox-1.webp
       text: >
-        mm-truckbox-10: (coming soon)
+        mm-truckbox-10 (coming soon)
+
         Construction site companion.
         power tools, jump cars, microwave, worksite lights, etc
 
     - image: /img/todo/mm-trailer-light-solar-1.jpg
       text: >
-        mm-trailer-light-30: (coming soon)
+        mm-trailer-light-30 (coming soon)
+        
         charge during the day, provide lights at night
         - optional solar
         - fleet / plant management
