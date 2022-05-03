@@ -65,6 +65,16 @@ module.exports = {
               destinationDir: "static",
             },
           },
+          {
+            resolve: "gatsby-plugin-google-analytics",
+            options: {
+              trackingId: "G-2G2TD17PR1",
+              anonymize: true,
+              // Prevents logging when vistor has "Do Not Track" enabled
+              respectDNT: true,
+              //exclude: ["/preview/**", "/do-not-track/me/too/"],
+            },
+          },
         ],
       },
     },
