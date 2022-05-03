@@ -36,14 +36,14 @@ module.exports = {
         name: "images",
       },
     },
-    `gatsby-plugin-image`,
+    "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-responsive-iframe',
+          //"gatsby-remark-responsive-iframe",
           {
             resolve: "gatsby-remark-relative-images",
             options: {
@@ -65,14 +65,17 @@ module.exports = {
               destinationDir: "static",
             },
           },
-          {
-            resolve: "gatsby-plugin-google-analytics",
             options: {
               trackingId: "G-2G2TD17PR1",
               anonymize: true,
               // Prevents logging when vistor has "Do Not Track" enabled
               respectDNT: true,
               //exclude: ["/preview/**", "/do-not-track/me/too/"],
+          {
+            resolve: "gatsby-plugin-google-tagmanager",
+            options: {
+              id: "GTM-WZ7NHJ6",
+              includeInDevelopment: false,
             },
           },
         ],
