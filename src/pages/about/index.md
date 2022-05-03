@@ -15,7 +15,7 @@ As you electrify more of your household appliances or realize power outages are 
 - add batteries - for increased runtime
 - add inverters - for increased power output/charging
 - add solar panels - increased generation on sunny days
-- add propane gas generator - last resort but can extend runtime during winter or if your solar panels become damaged
+- add propane gas generator - last resort but can extend runtime during winter (lower solar production months)
 
 ## Community Education
 It's our goal to improve community...
