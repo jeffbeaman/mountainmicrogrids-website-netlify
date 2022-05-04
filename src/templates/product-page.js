@@ -32,9 +32,9 @@ export const ProductPageTemplate = ({
           <div className="section">
             <div className="columns">
               <div className="column is-7 is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">
+                <h2 className="has-text-weight-semibold is-size-2">
                   {heading}
-                </h3>
+                </h2>
                 <p>{description}</p>
               </div>
             </div>
@@ -44,9 +44,9 @@ export const ProductPageTemplate = ({
 <div style={{display: 'none'}} className="todo">
                 <div className="columns">
                   <div className="column is-7">
-                    <h3 className="has-text-weight-semibold is-size-3">
+                    <h2 className="has-text-weight-semibold is-size-3">
                       {main.heading}
-                    </h3>
+                    </h2>
                     <p>{main.description}</p>
                   </div>
                 </div>
